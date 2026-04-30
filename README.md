@@ -59,7 +59,7 @@ This dashboard enables better inventory control, improves decision-making effici
 **Role:** Data Analyst (Aspiring)  
 
 📧 Email: ibrahimyususf7@gmail.com   
-🔗 GitHub: https://github.com/yourusername  
+🔗 GitHub: https://github.com/Ibrahim-Analyst706  
 Tell : 0588693702
 ## 📌 Note
 This project is part of my data analytics portfolio demonstrating skills in Power BI, data modeling, and business intelligence reporting.
